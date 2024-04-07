@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #292929;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.post {
+  width: 33%;
+  margin: 15px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.post h2 {
+  font-size: 1.5em;
+}
+
+.post p {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
