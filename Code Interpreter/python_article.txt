@@ -1,0 +1,5 @@
+Learning Python can be difficult. You might spend a lot of time watching videos and reading books; however, if you can’t put all the concepts learned into practice, that time will be wasted.
+
+This is why you should get your hands dirty with Python projects. A project will help you bring together everything you’ve learned, stay motivated, build a portfolio and come up with ways of approaching problems and solving them with code.
+
+In this article, I listed some projects that helped me level up my Python code and hopefully will help you too. The projects are listed by difficulty, so the beginner projects are in the beginning, while the advanced projects are at the end of the article.
